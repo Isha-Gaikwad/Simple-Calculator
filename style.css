@@ -1,0 +1,29 @@
+
+ body { 
+text-align: center;
+font-family: Arial, sans-serif; 
+}
+.calculator { 
+ width: 200px; 
+ margin: auto; 
+padding: 20px; 
+border: 1px solid #ccc; 
+ border-radius: 10px;
+background-color: #750744; 
+}
+input { 
+width: 100%; 
+height: 40px; 
+text-align: right; 
+font-size: 20px;
+}
+button { 
+width: 45px;
+height: 45px; 
+margin: 5px;
+font-size: 18px; 
+}
+button:hover {
+background-color: #f0f0f088;
+}
+   
